@@ -1,0 +1,2 @@
+go build namaApp.go 
+    -> digunakan untuk kompilasi dengan membuat binary file, akan otomatis menyesuaikan os pengguna

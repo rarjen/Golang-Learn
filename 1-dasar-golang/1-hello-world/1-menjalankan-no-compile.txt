@@ -1,0 +1,5 @@
+go run namaApp.go
+
+note :
+    - Digunakan hanya saat proses development
+    - Kita harus ttp compile saat kita upload ke server
