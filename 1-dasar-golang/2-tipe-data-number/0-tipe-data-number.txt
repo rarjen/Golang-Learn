@@ -1,0 +1,4 @@
+Tipe Data Number
+● Ada dua jenis tipe data Number, yaitu :
+    ○ Integer
+    ○ Floating Point

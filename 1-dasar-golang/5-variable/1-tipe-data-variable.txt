@@ -1,0 +1,4 @@
+Tipe Data Variable
+● Saat kita membuat variable, maka kita wajib menyebutkan tipe data variable tersebut
+● Namun jika kita langsung menginisialisasikan data pada variable nya, maka kita tidak wajib 
+menyebutkan tipe data variable nya

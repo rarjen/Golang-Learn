@@ -1,0 +1,3 @@
+Deklarasi Multiple Variable
+● Di Go-Lang kita bisa membuat variable secara sekaligus banyak
+● Code yang dibuat akan lebih bagus dan mudah dibaca
