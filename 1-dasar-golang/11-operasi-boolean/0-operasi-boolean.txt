@@ -1,0 +1,5 @@
+Operasi boolean
+
+&&  -> AND
+||  -> OR
+!   -> NOT
