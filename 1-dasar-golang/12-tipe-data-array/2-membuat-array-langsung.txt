@@ -1,0 +1,4 @@
+Membuat Array Langsung
+● Di Go-Lang kita juga bisa membuat Array secara langsung saat deklarasi variable
+
+len(array) => mendapatkan panjang array
